@@ -1,6 +1,6 @@
 # Hyperliquid API SDK
 
-Typescript SDK to more easily interact with @hyperliquid-dex API.
+Typescript SDK to more easily interact with [Hyperliquid](https://app.hyperliquid.xyz/).
 
 The official Hyperliquid API docs can be found [here](https://hyperliquid.gitbook.io/hyperliquid-docs).
 
@@ -8,7 +8,7 @@ The official Hyperliquid API docs can be found [here](https://hyperliquid.gitboo
 ## Installation
 
 ```bash
-bun add @HyperFWog/hl
+bun add @hyperfwog/hl
 ```
 
 
